@@ -1,0 +1,56 @@
+id,name,category,difficulty,minutes,page,image,source
+r001,Simple Frittata,Breakfast,Medium,15,6,assets/recipes/page-6.webp,Power of Pulses Recipe Book
+r002,Luna's Chia Breakfast Bowl,Breakfast,Easy,15,7,assets/recipes/page-7.webp,Power of Pulses Recipe Book
+r003,Cherry Almond Red Lentil Granola Bars,Breakfast,Medium,30,8,assets/recipes/page-8.webp,Power of Pulses Recipe Book
+r004,Southwest Pinto Bean Succotash,Lunch,Medium,35,9,assets/recipes/page-9.webp,Power of Pulses Recipe Book
+r005,Eggless Beet Pasta,Lunch,Hard,60,10,assets/recipes/page-10.webp,Power of Pulses Recipe Book
+r006,Carrot Top Pesto,Lunch,Medium,35,11,assets/recipes/page-11.webp,Power of Pulses Recipe Book
+r007,Cowboy Caviar: Black Eyed Peas,Lunch,Medium,40,12,assets/recipes/page-12.webp,Power of Pulses Recipe Book
+r008,Chickpea Tu-no Salad,Lunch,Medium,30,13,assets/recipes/page-13.webp,Power of Pulses Recipe Book
+r009,Black Bean Burgers,Lunch,Medium,35,14,assets/recipes/page-14.webp,Power of Pulses Recipe Book
+r010,Harissa Red Lentil Patties,Lunch,Medium,35,15,assets/recipes/page-15.webp,Power of Pulses Recipe Book
+r011,Kidney Bean Patties,Lunch,Medium,40,16,assets/recipes/page-16.webp,Power of Pulses Recipe Book
+r012,Black Eyed Peas and Kale Tacos,Lunch,Medium,25,17,assets/recipes/page-17.webp,Power of Pulses Recipe Book
+r013,Black Eyed Pea Fritters,Lunch,Medium,30,18,assets/recipes/page-18.webp,Power of Pulses Recipe Book
+r014,Pigeon Pea Tacos,Lunch,Medium,25,19,assets/recipes/page-19.webp,Power of Pulses Recipe Book
+r015,Eggplant Almond Enchiladas,Dinner,Hard,75,20,assets/recipes/page-20.webp,Power of Pulses Recipe Book
+r016,Moroccan Red Lentil Soup,Dinner,Medium,35,21,assets/recipes/page-21.webp,Power of Pulses Recipe Book
+r017,Garlic Parmesan White Beans,Dinner,Medium,30,22,assets/recipes/page-22.webp,Power of Pulses Recipe Book
+r018,Southwestern Stuffed Sweet Potatoes: Black Beans,Dinner,Hard,75,23,assets/recipes/page-23.webp,Power of Pulses Recipe Book
+r019,Black Bean Antojitos,Dinner,Hard,60,24,assets/recipes/page-24.webp,Power of Pulses Recipe Book
+r020,Crispy Lentil Meatballs,Dinner,Hard,60,25,assets/recipes/page-25.webp,Power of Pulses Recipe Book
+r021,Lentil Watt,Dinner,Hard,60,26,assets/recipes/page-26.webp,Power of Pulses Recipe Book
+r022,Ethiopian Sweet Potato and Lentil Watt,Dinner,Hard,60,27,assets/recipes/page-27.webp,Power of Pulses Recipe Book
+r023,Spiced Kidney Bean Curry,Dinner,Medium,40,29,assets/recipes/page-29.webp,Power of Pulses Recipe Book
+r024,Plant Based Chili: Kidney Beans,Dinner,Medium,35,30,assets/recipes/page-30.webp,Power of Pulses Recipe Book
+r025,Southern Black-Eyed Peas Hoppin' John,Dinner,Easy,30,31,assets/recipes/page-31.webp,Power of Pulses Recipe Book
+r026,Jamaican Gungo Peas Stew,Dinner,Medium,35,32,assets/recipes/page-32.webp,Power of Pulses Recipe Book
+r027,Sweet Potato & Pinto Bean Enchiladas,Dinner,Hard,60,33,assets/recipes/page-33.webp,Power of Pulses Recipe Book
+r028,Stuffed Potatoes with Salsa & Pinto Beans,Dinner,Medium,45,34,assets/recipes/page-34.webp,Power of Pulses Recipe Book
+r029,Pinto Bean Casserole,Dinner,Medium,20,35,assets/recipes/page-35.webp,Power of Pulses Recipe Book
+r030,Lentil Brownies,Dessert,Medium,30,36,assets/recipes/page-36.webp,Power of Pulses Recipe Book
+r031,Chickpea Gingersnaps,Dessert,Easy,15,37,assets/recipes/page-37.webp,Power of Pulses Recipe Book
+r032,Maple Pecan White Bean Blondies,Dessert,Medium,30,38,assets/recipes/page-38.webp,Power of Pulses Recipe Book
+r033,Double Chocolate White Bean Brownies,Dessert,Medium,30,39,assets/recipes/page-39.webp,Power of Pulses Recipe Book
+r034,Black Bean Chocolate Chunk Brownies,Dessert,Medium,30,40,assets/recipes/page-40.webp,Power of Pulses Recipe Book
+r035,Red Kidney Bean Chocolate Cookies,Dessert,Medium,30,41,assets/recipes/page-41.webp,Power of Pulses Recipe Book
+r036,Black Eyed Peas Brownie Bites,Dessert,Easy,15,42,assets/recipes/page-42.webp,Power of Pulses Recipe Book
+r037,Pinto Bean Pie,Dessert,Medium,60,43,assets/recipes/page-43.webp,Power of Pulses Recipe Book
+r038,Pupusas,Snack,Hard,75,44,assets/recipes/page-44.webp,Power of Pulses Recipe Book
+r039,Curtido,Snack,Easy,10,45,assets/recipes/page-45.webp,Power of Pulses Recipe Book
+r040,Broccomole,Snack,Easy,10,46,assets/recipes/page-46.webp,Power of Pulses Recipe Book
+r041,Kale Chips,Snack,Easy,10,47,assets/recipes/page-47.webp,Power of Pulses Recipe Book
+r042,Asian Slaw,Snack,Easy,20,48,assets/recipes/page-48.webp,Power of Pulses Recipe Book
+r043,Lentil Fritters,Snack,Medium,35,49,assets/recipes/page-49.webp,Power of Pulses Recipe Book
+r044,Spicy Hummus Dip: Chickpeas,Snack,Easy,10,50,assets/recipes/page-50.webp,Power of Pulses Recipe Book
+r045,Peanut Butter Chickpea Energy Balls,Snack,Easy,10,51,assets/recipes/page-51.webp,Power of Pulses Recipe Book
+r046,White Bean Dip,Snack,Easy,10,51,assets/recipes/page-51.webp,Power of Pulses Recipe Book
+r047,Lentil Hummus,Snack,Easy,10,52,assets/recipes/page-52.webp,Power of Pulses Recipe Book
+r048,Simple Salad Dressing,Snack,Easy,10,53,assets/recipes/page-53.webp,Power of Pulses Recipe Book
+r049,Black Eyed Peas Hummus,Snack,Easy,10,54,assets/recipes/page-54.webp,Power of Pulses Recipe Book
+r050,Pigeon Pea Hummus,Snack,Easy,10,55,assets/recipes/page-55.webp,Power of Pulses Recipe Book
+r051,Pigeon Pea Salad with Roasted Butternut Squash,Snack,Easy,15,56,assets/recipes/page-56.webp,Power of Pulses Recipe Book
+r052,Fritter Ranch,Snack,Easy,10,57,assets/recipes/page-57.webp,Power of Pulses Recipe Book
+r053,Pinto Bean Fritters,Snack,Medium,15,59,assets/recipes/page-59.webp,Power of Pulses Recipe Book
+r054,Pinto Bean Casserole - Bonus,Dinner,Medium,20,61,assets/recipes/page-61.webp,Power of Pulses Recipe Book
+r055,Sweet Cinnamon Agave Pinto Bean Cake,Dessert,Medium,45,63,assets/recipes/page-63.webp,Power of Pulses Recipe Book

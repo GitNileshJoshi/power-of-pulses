@@ -1,0 +1,552 @@
+[
+  {
+    "id": "r001",
+    "name": "Simple Frittata",
+    "category": "Breakfast",
+    "difficulty": "Medium",
+    "minutes": 15,
+    "page": 6,
+    "image": "assets/recipes/page-6.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r002",
+    "name": "Luna's Chia Breakfast Bowl",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "minutes": 15,
+    "page": 7,
+    "image": "assets/recipes/page-7.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r003",
+    "name": "Cherry Almond Red Lentil Granola Bars",
+    "category": "Breakfast",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 8,
+    "image": "assets/recipes/page-8.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r004",
+    "name": "Southwest Pinto Bean Succotash",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 9,
+    "image": "assets/recipes/page-9.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r005",
+    "name": "Eggless Beet Pasta",
+    "category": "Lunch",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 10,
+    "image": "assets/recipes/page-10.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r006",
+    "name": "Carrot Top Pesto",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 11,
+    "image": "assets/recipes/page-11.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r007",
+    "name": "Cowboy Caviar: Black Eyed Peas",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 40,
+    "page": 12,
+    "image": "assets/recipes/page-12.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r008",
+    "name": "Chickpea Tu-no Salad",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 13,
+    "image": "assets/recipes/page-13.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r009",
+    "name": "Black Bean Burgers",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 14,
+    "image": "assets/recipes/page-14.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r010",
+    "name": "Harissa Red Lentil Patties",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 15,
+    "image": "assets/recipes/page-15.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r011",
+    "name": "Kidney Bean Patties",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 40,
+    "page": 16,
+    "image": "assets/recipes/page-16.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r012",
+    "name": "Black Eyed Peas and Kale Tacos",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 25,
+    "page": 17,
+    "image": "assets/recipes/page-17.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r013",
+    "name": "Black Eyed Pea Fritters",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 18,
+    "image": "assets/recipes/page-18.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r014",
+    "name": "Pigeon Pea Tacos",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "minutes": 25,
+    "page": 19,
+    "image": "assets/recipes/page-19.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r015",
+    "name": "Eggplant Almond Enchiladas",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 75,
+    "page": 20,
+    "image": "assets/recipes/page-20.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r016",
+    "name": "Moroccan Red Lentil Soup",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 21,
+    "image": "assets/recipes/page-21.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r017",
+    "name": "Garlic Parmesan White Beans",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 22,
+    "image": "assets/recipes/page-22.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r018",
+    "name": "Southwestern Stuffed Sweet Potatoes: Black Beans",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 75,
+    "page": 23,
+    "image": "assets/recipes/page-23.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r019",
+    "name": "Black Bean Antojitos",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 24,
+    "image": "assets/recipes/page-24.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r020",
+    "name": "Crispy Lentil Meatballs",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 25,
+    "image": "assets/recipes/page-25.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r021",
+    "name": "Lentil Watt",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 26,
+    "image": "assets/recipes/page-26.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r022",
+    "name": "Ethiopian Sweet Potato and Lentil Watt",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 27,
+    "image": "assets/recipes/page-27.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r023",
+    "name": "Spiced Kidney Bean Curry",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 40,
+    "page": 29,
+    "image": "assets/recipes/page-29.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r024",
+    "name": "Plant Based Chili: Kidney Beans",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 30,
+    "image": "assets/recipes/page-30.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r025",
+    "name": "Southern Black-Eyed Peas Hoppin' John",
+    "category": "Dinner",
+    "difficulty": "Easy",
+    "minutes": 30,
+    "page": 31,
+    "image": "assets/recipes/page-31.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r026",
+    "name": "Jamaican Gungo Peas Stew",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 32,
+    "image": "assets/recipes/page-32.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r027",
+    "name": "Sweet Potato & Pinto Bean Enchiladas",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "minutes": 60,
+    "page": 33,
+    "image": "assets/recipes/page-33.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r028",
+    "name": "Stuffed Potatoes with Salsa & Pinto Beans",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 45,
+    "page": 34,
+    "image": "assets/recipes/page-34.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r029",
+    "name": "Pinto Bean Casserole",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 20,
+    "page": 35,
+    "image": "assets/recipes/page-35.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r030",
+    "name": "Lentil Brownies",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 36,
+    "image": "assets/recipes/page-36.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r031",
+    "name": "Chickpea Gingersnaps",
+    "category": "Dessert",
+    "difficulty": "Easy",
+    "minutes": 15,
+    "page": 37,
+    "image": "assets/recipes/page-37.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r032",
+    "name": "Maple Pecan White Bean Blondies",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 38,
+    "image": "assets/recipes/page-38.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r033",
+    "name": "Double Chocolate White Bean Brownies",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 39,
+    "image": "assets/recipes/page-39.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r034",
+    "name": "Black Bean Chocolate Chunk Brownies",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 40,
+    "image": "assets/recipes/page-40.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r035",
+    "name": "Red Kidney Bean Chocolate Cookies",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 30,
+    "page": 41,
+    "image": "assets/recipes/page-41.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r036",
+    "name": "Black Eyed Peas Brownie Bites",
+    "category": "Dessert",
+    "difficulty": "Easy",
+    "minutes": 15,
+    "page": 42,
+    "image": "assets/recipes/page-42.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r037",
+    "name": "Pinto Bean Pie",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 60,
+    "page": 43,
+    "image": "assets/recipes/page-43.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r038",
+    "name": "Pupusas",
+    "category": "Snack",
+    "difficulty": "Hard",
+    "minutes": 75,
+    "page": 44,
+    "image": "assets/recipes/page-44.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r039",
+    "name": "Curtido",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 45,
+    "image": "assets/recipes/page-45.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r040",
+    "name": "Broccomole",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 46,
+    "image": "assets/recipes/page-46.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r041",
+    "name": "Kale Chips",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 47,
+    "image": "assets/recipes/page-47.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r042",
+    "name": "Asian Slaw",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 20,
+    "page": 48,
+    "image": "assets/recipes/page-48.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r043",
+    "name": "Lentil Fritters",
+    "category": "Snack",
+    "difficulty": "Medium",
+    "minutes": 35,
+    "page": 49,
+    "image": "assets/recipes/page-49.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r044",
+    "name": "Spicy Hummus Dip: Chickpeas",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 50,
+    "image": "assets/recipes/page-50.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r045",
+    "name": "Peanut Butter Chickpea Energy Balls",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 51,
+    "image": "assets/recipes/page-51.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r046",
+    "name": "White Bean Dip",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 51,
+    "image": "assets/recipes/page-51.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r047",
+    "name": "Lentil Hummus",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 52,
+    "image": "assets/recipes/page-52.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r048",
+    "name": "Simple Salad Dressing",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 53,
+    "image": "assets/recipes/page-53.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r049",
+    "name": "Black Eyed Peas Hummus",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 54,
+    "image": "assets/recipes/page-54.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r050",
+    "name": "Pigeon Pea Hummus",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 55,
+    "image": "assets/recipes/page-55.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r051",
+    "name": "Pigeon Pea Salad with Roasted Butternut Squash",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 15,
+    "page": 56,
+    "image": "assets/recipes/page-56.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r052",
+    "name": "Fritter Ranch",
+    "category": "Snack",
+    "difficulty": "Easy",
+    "minutes": 10,
+    "page": 57,
+    "image": "assets/recipes/page-57.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r053",
+    "name": "Pinto Bean Fritters",
+    "category": "Snack",
+    "difficulty": "Medium",
+    "minutes": 15,
+    "page": 59,
+    "image": "assets/recipes/page-59.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r054",
+    "name": "Pinto Bean Casserole - Bonus",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "minutes": 20,
+    "page": 61,
+    "image": "assets/recipes/page-61.webp",
+    "source": "Power of Pulses Recipe Book"
+  },
+  {
+    "id": "r055",
+    "name": "Sweet Cinnamon Agave Pinto Bean Cake",
+    "category": "Dessert",
+    "difficulty": "Medium",
+    "minutes": 45,
+    "page": 63,
+    "image": "assets/recipes/page-63.webp",
+    "source": "Power of Pulses Recipe Book"
+  }
+]
