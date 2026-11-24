@@ -7,7 +7,12 @@
     "minutes": 15,
     "page": 6,
     "image": "assets/recipes/page-6.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "egg",
+      "vegetables",
+      "cheese"
+    ]
   },
   {
     "id": "r002",
@@ -17,7 +22,15 @@
     "minutes": 15,
     "page": 7,
     "image": "assets/recipes/page-7.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "oats",
+      "chia seeds",
+      "yogurt",
+      "maple syrup",
+      "milk",
+      "almond milk"
+    ]
   },
   {
     "id": "r003",
@@ -27,7 +40,13 @@
     "minutes": 30,
     "page": 8,
     "image": "assets/recipes/page-8.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "red lentils",
+      "almonds",
+      "cherries",
+      "oats"
+    ]
   },
   {
     "id": "r004",
@@ -37,7 +56,15 @@
     "minutes": 35,
     "page": 9,
     "image": "assets/recipes/page-9.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "corn",
+      "bell pepper",
+      "tomato",
+      "greens",
+      "quinoa"
+    ]
   },
   {
     "id": "r005",
@@ -47,7 +74,11 @@
     "minutes": 60,
     "page": 10,
     "image": "assets/recipes/page-10.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "beet",
+      "semolina"
+    ]
   },
   {
     "id": "r006",
@@ -57,7 +88,13 @@
     "minutes": 35,
     "page": 11,
     "image": "assets/recipes/page-11.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "carrot tops",
+      "garlic",
+      "nuts",
+      "olive oil"
+    ]
   },
   {
     "id": "r007",
@@ -67,7 +104,14 @@
     "minutes": 40,
     "page": 12,
     "image": "assets/recipes/page-12.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "corn",
+      "tomato",
+      "bell pepper",
+      "onion"
+    ]
   },
   {
     "id": "r008",
@@ -77,7 +121,13 @@
     "minutes": 30,
     "page": 13,
     "image": "assets/recipes/page-13.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "chickpeas",
+      "celery",
+      "red onion",
+      "lemon"
+    ]
   },
   {
     "id": "r009",
@@ -87,7 +137,13 @@
     "minutes": 35,
     "page": 14,
     "image": "assets/recipes/page-14.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black beans",
+      "oats",
+      "onion",
+      "garlic"
+    ]
   },
   {
     "id": "r010",
@@ -97,7 +153,13 @@
     "minutes": 35,
     "page": 15,
     "image": "assets/recipes/page-15.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "garlic",
+      "yogurt"
+    ]
   },
   {
     "id": "r011",
@@ -107,7 +169,13 @@
     "minutes": 40,
     "page": 16,
     "image": "assets/recipes/page-16.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "cilantro",
+      "ginger"
+    ]
   },
   {
     "id": "r012",
@@ -117,7 +185,14 @@
     "minutes": 25,
     "page": 17,
     "image": "assets/recipes/page-17.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "kale",
+      "avocado",
+      "garlic",
+      "lime"
+    ]
   },
   {
     "id": "r013",
@@ -127,7 +202,13 @@
     "minutes": 30,
     "page": 18,
     "image": "assets/recipes/page-18.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "bell pepper",
+      "onion",
+      "garlic"
+    ]
   },
   {
     "id": "r014",
@@ -137,7 +218,14 @@
     "minutes": 25,
     "page": 19,
     "image": "assets/recipes/page-19.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pigeon peas",
+      "cabbage",
+      "coconut",
+      "tomato",
+      "pineapple"
+    ]
   },
   {
     "id": "r015",
@@ -147,7 +235,14 @@
     "minutes": 75,
     "page": 20,
     "image": "assets/recipes/page-20.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "eggplant",
+      "almonds",
+      "tomato",
+      "onion",
+      "garlic"
+    ]
   },
   {
     "id": "r016",
@@ -157,7 +252,13 @@
     "minutes": 35,
     "page": 21,
     "image": "assets/recipes/page-21.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "red lentils",
+      "tomato",
+      "garlic",
+      "onion"
+    ]
   },
   {
     "id": "r017",
@@ -167,7 +268,14 @@
     "minutes": 30,
     "page": 22,
     "image": "assets/recipes/page-22.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "white beans",
+      "garlic",
+      "parmesan",
+      "tomato",
+      "parsley"
+    ]
   },
   {
     "id": "r018",
@@ -177,7 +285,14 @@
     "minutes": 75,
     "page": 23,
     "image": "assets/recipes/page-23.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "sweet potato",
+      "black beans",
+      "corn",
+      "avocado",
+      "tomato"
+    ]
   },
   {
     "id": "r019",
@@ -187,7 +302,14 @@
     "minutes": 60,
     "page": 24,
     "image": "assets/recipes/page-24.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black beans",
+      "garlic",
+      "lime",
+      "avocado",
+      "bell pepper"
+    ]
   },
   {
     "id": "r020",
@@ -197,7 +319,13 @@
     "minutes": 60,
     "page": 25,
     "image": "assets/recipes/page-25.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "lentils",
+      "flax",
+      "parsley",
+      "garlic"
+    ]
   },
   {
     "id": "r021",
@@ -207,7 +335,10 @@
     "minutes": 60,
     "page": 26,
     "image": "assets/recipes/page-26.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "lentils"
+    ]
   },
   {
     "id": "r022",
@@ -217,7 +348,16 @@
     "minutes": 60,
     "page": 27,
     "image": "assets/recipes/page-27.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "red lentils",
+      "sweet potato",
+      "tomato",
+      "cabbage",
+      "onion",
+      "garlic",
+      "ginger"
+    ]
   },
   {
     "id": "r023",
@@ -227,7 +367,11 @@
     "minutes": 40,
     "page": 29,
     "image": "assets/recipes/page-29.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "kidney beans",
+      "curry"
+    ]
   },
   {
     "id": "r024",
@@ -237,7 +381,12 @@
     "minutes": 35,
     "page": 30,
     "image": "assets/recipes/page-30.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "kidney beans",
+      "tomato",
+      "chili"
+    ]
   },
   {
     "id": "r025",
@@ -247,7 +396,11 @@
     "minutes": 30,
     "page": 31,
     "image": "assets/recipes/page-31.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "rice"
+    ]
   },
   {
     "id": "r026",
@@ -257,7 +410,12 @@
     "minutes": 35,
     "page": 32,
     "image": "assets/recipes/page-32.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pigeon peas",
+      "tomato",
+      "stew"
+    ]
   },
   {
     "id": "r027",
@@ -267,7 +425,12 @@
     "minutes": 60,
     "page": 33,
     "image": "assets/recipes/page-33.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "sweet potato",
+      "pinto beans",
+      "enchilada"
+    ]
   },
   {
     "id": "r028",
@@ -277,7 +440,12 @@
     "minutes": 45,
     "page": 34,
     "image": "assets/recipes/page-34.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "potato",
+      "pinto beans",
+      "salsa"
+    ]
   },
   {
     "id": "r029",
@@ -287,7 +455,17 @@
     "minutes": 20,
     "page": 35,
     "image": "assets/recipes/page-35.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "tomato",
+      "corn",
+      "spinach",
+      "quinoa"
+    ]
   },
   {
     "id": "r030",
@@ -297,7 +475,11 @@
     "minutes": 30,
     "page": 36,
     "image": "assets/recipes/page-36.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "lentils",
+      "chocolate"
+    ]
   },
   {
     "id": "r031",
@@ -307,7 +489,12 @@
     "minutes": 15,
     "page": 37,
     "image": "assets/recipes/page-37.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "chickpeas",
+      "ginger",
+      "cookies"
+    ]
   },
   {
     "id": "r032",
@@ -317,7 +504,12 @@
     "minutes": 30,
     "page": 38,
     "image": "assets/recipes/page-38.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "white beans",
+      "maple",
+      "pecans"
+    ]
   },
   {
     "id": "r033",
@@ -327,7 +519,11 @@
     "minutes": 30,
     "page": 39,
     "image": "assets/recipes/page-39.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "white beans",
+      "chocolate"
+    ]
   },
   {
     "id": "r034",
@@ -337,7 +533,11 @@
     "minutes": 30,
     "page": 40,
     "image": "assets/recipes/page-40.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black beans",
+      "chocolate"
+    ]
   },
   {
     "id": "r035",
@@ -347,7 +547,11 @@
     "minutes": 30,
     "page": 41,
     "image": "assets/recipes/page-41.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "kidney beans",
+      "chocolate"
+    ]
   },
   {
     "id": "r036",
@@ -357,7 +561,11 @@
     "minutes": 15,
     "page": 42,
     "image": "assets/recipes/page-42.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "chocolate"
+    ]
   },
   {
     "id": "r037",
@@ -367,7 +575,11 @@
     "minutes": 60,
     "page": 43,
     "image": "assets/recipes/page-43.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "pie"
+    ]
   },
   {
     "id": "r038",
@@ -377,7 +589,12 @@
     "minutes": 75,
     "page": 44,
     "image": "assets/recipes/page-44.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "corn",
+      "cheese",
+      "beans"
+    ]
   },
   {
     "id": "r039",
@@ -387,7 +604,12 @@
     "minutes": 10,
     "page": 45,
     "image": "assets/recipes/page-45.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "cabbage",
+      "carrot",
+      "vinegar"
+    ]
   },
   {
     "id": "r040",
@@ -397,7 +619,11 @@
     "minutes": 10,
     "page": 46,
     "image": "assets/recipes/page-46.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "broccoli",
+      "avocado"
+    ]
   },
   {
     "id": "r041",
@@ -407,7 +633,10 @@
     "minutes": 10,
     "page": 47,
     "image": "assets/recipes/page-47.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "kale"
+    ]
   },
   {
     "id": "r042",
@@ -417,7 +646,11 @@
     "minutes": 20,
     "page": 48,
     "image": "assets/recipes/page-48.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "cabbage",
+      "slaw"
+    ]
   },
   {
     "id": "r043",
@@ -427,7 +660,11 @@
     "minutes": 35,
     "page": 49,
     "image": "assets/recipes/page-49.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "lentils",
+      "fritters"
+    ]
   },
   {
     "id": "r044",
@@ -437,7 +674,11 @@
     "minutes": 10,
     "page": 50,
     "image": "assets/recipes/page-50.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "chickpeas",
+      "hummus"
+    ]
   },
   {
     "id": "r045",
@@ -447,7 +688,11 @@
     "minutes": 10,
     "page": 51,
     "image": "assets/recipes/page-51.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "chickpeas",
+      "peanut butter"
+    ]
   },
   {
     "id": "r046",
@@ -457,7 +702,11 @@
     "minutes": 10,
     "page": 51,
     "image": "assets/recipes/page-51.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "white beans",
+      "dip"
+    ]
   },
   {
     "id": "r047",
@@ -467,7 +716,11 @@
     "minutes": 10,
     "page": 52,
     "image": "assets/recipes/page-52.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "lentils",
+      "hummus"
+    ]
   },
   {
     "id": "r048",
@@ -477,7 +730,10 @@
     "minutes": 10,
     "page": 53,
     "image": "assets/recipes/page-53.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "salad dressing"
+    ]
   },
   {
     "id": "r049",
@@ -487,7 +743,11 @@
     "minutes": 10,
     "page": 54,
     "image": "assets/recipes/page-54.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "black eyed peas",
+      "hummus"
+    ]
   },
   {
     "id": "r050",
@@ -497,7 +757,11 @@
     "minutes": 10,
     "page": 55,
     "image": "assets/recipes/page-55.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pigeon peas",
+      "hummus"
+    ]
   },
   {
     "id": "r051",
@@ -507,7 +771,11 @@
     "minutes": 15,
     "page": 56,
     "image": "assets/recipes/page-56.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pigeon peas",
+      "butternut squash"
+    ]
   },
   {
     "id": "r052",
@@ -517,7 +785,10 @@
     "minutes": 10,
     "page": 57,
     "image": "assets/recipes/page-57.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "ranch"
+    ]
   },
   {
     "id": "r053",
@@ -527,7 +798,17 @@
     "minutes": 15,
     "page": 59,
     "image": "assets/recipes/page-59.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "egg",
+      "panko",
+      "corn",
+      "bell pepper",
+      "green onion",
+      "jalapeno",
+      "cilantro"
+    ]
   },
   {
     "id": "r054",
@@ -537,7 +818,18 @@
     "minutes": 20,
     "page": 61,
     "image": "assets/recipes/page-61.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "tomato",
+      "corn",
+      "spinach",
+      "quinoa",
+      "cheese"
+    ]
   },
   {
     "id": "r055",
@@ -547,6 +839,15 @@
     "minutes": 45,
     "page": 63,
     "image": "assets/recipes/page-63.webp",
-    "source": "Power of Pulses Recipe Book"
+    "source": "Power of Pulses Recipe Book",
+    "ingredients": [
+      "pinto beans",
+      "cinnamon",
+      "agave",
+      "eggs",
+      "cream cheese",
+      "walnuts",
+      "pecans"
+    ]
   }
 ]
